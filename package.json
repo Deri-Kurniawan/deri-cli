@@ -1,6 +1,6 @@
 {
   "name": "deri-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a cli that is often used by developers to simplify the installation and development of software applications",
   "bin": {
     "deri": "dist/index.js"
